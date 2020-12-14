@@ -3,7 +3,6 @@
 ## Who am I ?
 I am **Pranav**. I am 13 years old and I think I am a programming enthusiast.
 
-[button url="http://www.google.com"]
-
+[Click me](http://www.google.com){: .btn}
 
 
