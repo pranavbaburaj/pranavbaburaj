@@ -25,4 +25,4 @@
  - [YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw/featured?view_as=subscriber)
  - [Join my discord server](https://discord.com/channels/786077565617700874/786077565617700877)
  -  [Reddit](https://www.reddit.com/user/pranavbaburaj)
- - [Tumblr] (https://pranavbaburaj.tumblr.com/)
+ - [Tumblr](https://pranavbaburaj.tumblr.com/)
