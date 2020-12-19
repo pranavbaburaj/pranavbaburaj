@@ -26,4 +26,4 @@
  - [Join my discord server](https://discord.gg/YNDwpmth2m)
  -  [Reddit](https://www.reddit.com/user/pranavbaburaj)
  - [Tumblr](https://pranavbaburaj.tumblr.com/)
- - [Mail](mailto:pranavbaburaj@googlegroups.com)
+ - pranavbaburaj@googlegroups.com
