@@ -18,7 +18,8 @@
 	- Svelte js
 - TypeScript
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
+![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
 ## Contact
 
