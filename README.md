@@ -20,7 +20,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
 ## Contact
 
