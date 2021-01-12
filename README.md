@@ -19,7 +19,8 @@
 - TypeScript
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj)
 
 ## Contact
 
