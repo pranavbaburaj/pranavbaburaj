@@ -1,4 +1,7 @@
 # Hi there !
+[
+![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
+
 ## Who Am I ?
   I am **Pranav**. I am 13 and I love programming.
  
