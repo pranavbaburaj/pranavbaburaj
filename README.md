@@ -12,15 +12,13 @@
 	  - Flask
 	  - Bottle
 - Javascript
-	- React js
-	- express js
 	- Vue js
 	- Svelte js
 - TypeScript
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme)
 
 ## Contact
 
