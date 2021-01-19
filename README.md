@@ -5,16 +5,6 @@
 ## Who Am I ?
   I am **Pranav**. I am 13 and I love programming.
  
- ## What am I working on ?
-
- - Python
-	  - Django
-	  - Flask
-	  - Bottle
-- Javascript
-	- Vue js
-	- Svelte js
-- TypeScript
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
 <br>
