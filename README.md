@@ -5,6 +5,7 @@
 ## Who Am I ?
   I am **Pranav**. I am 13 and I love programming.
  
+ ![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
 <br>
