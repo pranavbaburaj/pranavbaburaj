@@ -4,10 +4,11 @@
 
 ## Who Am I ?
   I am **Pranav**. I am 13 and I love programming.
+  <br>
  
-![Metrics](https://github.com/pranavbaburaj/pranavbaburaj/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/pranavbaburaj)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pranavbaburaj)
+
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
