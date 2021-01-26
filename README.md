@@ -2,7 +2,7 @@
 [
 ![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbaburaj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ironmancool001" /> </p>
+
 
 ## Who Am I ?
   I am **Pranav**. I am 13 and I love programming..
