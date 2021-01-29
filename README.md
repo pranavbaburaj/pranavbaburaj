@@ -9,7 +9,6 @@
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj" alt="me" />
@@ -20,4 +19,4 @@
  - [YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw/featured?view_as=subscriber)
  - [Join my discord server](https://discord.gg/YNDwpmth2m)
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
- - pranavbaburaj@googlegroups.com
+ - Mail me - pranavbaburaj@googlegroups.com
