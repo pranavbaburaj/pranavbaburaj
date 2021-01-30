@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj" alt="This is my status" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithtim" alt="This is my status" />
 
 ## Contact
 
