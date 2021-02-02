@@ -11,6 +11,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
+### Contributions
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)](https://github.com/pranavbaburaj)
 
 ## Contact
@@ -19,4 +21,4 @@
  - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw/featured?view_as=subscriber)
  - [Join my discord server](https://discord.gg/YzDdsHeEYM)
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
- - [Mail me]()
+ - [Mail me](mailto:code-roller@googlegroups.com)
