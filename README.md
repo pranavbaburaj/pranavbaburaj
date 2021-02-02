@@ -11,9 +11,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
-### Contributions
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)](https://github.com/pranavbaburaj)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
 
 ## Contact
 
