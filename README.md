@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
 
 <br>
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pranavbaburajr&hide_title=false&hide_border=true)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pranavbaburaj&hide_title=false&hide_border=true)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
