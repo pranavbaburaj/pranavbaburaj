@@ -9,7 +9,7 @@
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact)
 
 
 
