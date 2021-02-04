@@ -8,12 +8,15 @@
   <br>
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
+<hr>
 
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact&hide_title=true)
 
-
+<hr>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
+
+<hr>
 
 ## Contact
 
