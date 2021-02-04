@@ -4,7 +4,7 @@
 <br>
 
 ## Who Am I ?
-  I am **Pranav**(@pranavbaburaj) . I am 13 and I love programming...
+  I am **Pranav**([@pranavbaburaj](https://twitter.com/baburaj_pranav)) . I am 13 and I love programming...
   <br>
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
