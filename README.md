@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/70764593?s=460&u=f9bd8cfc924223344c3da74bd3aa11e15d741e8e&v=4" style="border-radius:50%;">
+
 # Hi there !
 [
 ![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
