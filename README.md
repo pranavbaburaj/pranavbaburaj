@@ -22,6 +22,6 @@
 
  - [Follow me on Github](https://github.com/pranavbaburaj)
  - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw)
- - [Join my discord server](https://discord.gg/YzDdsHeEYM)
+ - [Join my discord server](https://discord.gg/vzcNRVrHR5)
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
  - [Mail me](mailto:code-roller@googlegroups.com)
