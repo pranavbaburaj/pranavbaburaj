@@ -1,5 +1,5 @@
 
-# Hi there !
+# Hi there !!
 [
 ![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
 <br>
@@ -21,7 +21,7 @@
 ## Contact
 
  - [Follow me on Github](https://github.com/pranavbaburaj)
- - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw/featured?view_as=subscriber)
+ - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw)
  - [Join my discord server](https://discord.gg/YzDdsHeEYM)
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
  - [Mail me](mailto:code-roller@googlegroups.com)
