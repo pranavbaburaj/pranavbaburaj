@@ -27,3 +27,4 @@
  - [Mail me](mailto:code-roller@googlegroups.com)
  - [Tumblr](https://pranavbaburaj.tumblr.com/)
  - [Follow my dev blogs on dev.to](https://dev.to/pranavbaburaj)
+ - [Follow me on twitter](https://twitter.com/baburaj_pranav)
