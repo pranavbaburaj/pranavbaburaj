@@ -4,9 +4,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pranavbaburaj/count.svg" />
 </p>
-[
-![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
-<br>
 
 ## Who Am I ?
   I am **Pranav**([@pranavbaburaj](https://twitter.com/baburaj_pranav)) . I am 13 and I love programming...
