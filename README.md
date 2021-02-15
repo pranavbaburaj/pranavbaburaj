@@ -10,8 +10,7 @@
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
 <hr>
-![](https://github-profile-trophy.vercel.app/?username=pranavbaburaj)
-<hr>
+
 
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact&hide_title=true)
