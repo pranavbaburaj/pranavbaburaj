@@ -1,5 +1,9 @@
 
 # Hi there !
+<p"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pranavbaburaj/count.svg" />
+</p>
 [
 ![Github](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)](https://github.com/pranavbaburaj)
 <br>
