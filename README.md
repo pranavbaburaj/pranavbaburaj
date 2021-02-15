@@ -1,9 +1,6 @@
 
 # Hi there !
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pranavbaburaj/count.svg" />
-</p>
+
 
 ## Who Am I ?
   I am **Pranav**([@pranavbaburaj](https://twitter.com/baburaj_pranav)) . I am 13 and I love programming...
