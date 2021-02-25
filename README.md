@@ -22,7 +22,7 @@
 
  - [Follow me on Github](https://github.com/pranavbaburaj)
  - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw)
- - [Join my discord server.](https://discord.gg/ypqrAQwR)
+ - [Join my discord server.](https://discord.gg/vzcNRVrHR5)
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
  - [Tumblr](https://pranavbaburaj.tumblr.com/)
  - [Follow my dev blogs on dev.to](https://dev.to/pranavbaburaj)
