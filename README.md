@@ -1,6 +1,8 @@
 
 # Hi there !
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+
 
 ## Who Am I ?
   I am **Pranav**([@pranavbaburaj](https://twitter.com/baburaj_pranav)) . I am 13 and I love programming...
