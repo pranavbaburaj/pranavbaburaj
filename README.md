@@ -1,7 +1,7 @@
 
 # Hi there !
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pranavbaburaj?label=Follow)](https://twitter.com/intent/follow?screen_name=pranavbaburaj)
+[![Twitter Follow](https://img.shields.io/twitter/follow/baburaj_pranavbaburaj?label=Follow)](https://twitter.com/intent/follow?screen_name=baburaj_pranavbaburaj)
 ![GitHub followers](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)
 
 
