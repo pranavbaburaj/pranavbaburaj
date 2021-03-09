@@ -1,7 +1,8 @@
 
 # Hi there !
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pranavbaburaj?label=Follow)](https://twitter.com/intent/follow?screen_name=pranavbaburaj)
+![GitHub followers](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)
 
 
 ## Who Am I ?
