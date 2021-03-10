@@ -3,6 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/baburaj_pranav?label=Follow)](https://twitter.com/intent/follow?screen_name=baburaj_pranav)
 ![GitHub followers](https://img.shields.io/github/followers/pranavbaburaj?label=Follow&style=social)
+![https://discord.gg/vzcNRVrHR5](https://img.shields.io/discord/808537055177080892?style=social)
 
 
 ## Who Am I ?
