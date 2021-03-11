@@ -17,6 +17,8 @@
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact&hide_title=true)
 
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavbaburaj)](https://github.com/pranavbaburaj/github-readme-activity-graph)
+
 # Contribution chart
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
 
