@@ -26,6 +26,8 @@
 
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavbaburaj)](https://github.com/pranavbaburaj/github-readme-activity-graph&hide_border=true)
 
+View my Github activity in GitHub skyline [here](https://skyline.github.com/pranavbaburaj/2020)
+
 Currently working on [hascal/hascal](https://github.com/hascal/hascal)
 
 ## Contact
