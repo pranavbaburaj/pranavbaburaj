@@ -18,6 +18,9 @@
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact&hide_title=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 # Contribution chart
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
