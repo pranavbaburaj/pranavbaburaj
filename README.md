@@ -29,7 +29,7 @@
 
 Also view my Github activity in GitHub skyline [here](https://skyline.github.com/pranavbaburaj/2020)
 
-Currently working on [hascal/hascal](https://github.com/hascal/hascal)
+Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sphinx)
 
 ## Contact
 
