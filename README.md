@@ -6,7 +6,7 @@
 
 
 
-## Who Am I ?
+## 👨‍Who Am I ?
   I am **Pranav**([@pranavbaburaj](https://twitter.com/_pranavbaburaj)) . I am 13 and I love programming...
   
   I am really active on discord. Get me [there](https://discord.com/users/763820556491161650)...
@@ -15,12 +15,12 @@
 <hr>
 
 
-### Most used languages
+### 💻 Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbaburaj&theme=tokyonight&layout=compact&hide_title=true)
 
 
 
-# Contribution chart
+# 📈 Contribution chart
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavbaburaj&theme=dark&background=0D1117)]()
 
 <hr>
@@ -31,7 +31,7 @@ Also view my Github activity in GitHub skyline [here](https://skyline.github.com
 
 Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sphinx)
 
-## Contact
+## 📞 Contact
 
  - [Follow me on Github](https://github.com/pranavbaburaj)
  - [Subscribe my channel on YouTube](https://www.youtube.com/channel/UCXUbqWoz5V_Hoeofgbf6Mbw)
