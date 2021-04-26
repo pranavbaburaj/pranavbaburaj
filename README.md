@@ -10,12 +10,13 @@
   
   I am Pranav Baburaj 🙋🏻‍♂️
   
-  - 🙋🏻‍♂️ I am 13.
+  - 🙋🏻‍♂️ I am 13
   - 💻 Loves Coding and Astronomy.
-  - 💕 Loves @GitHub and @Discord.
   - 🎂 Wish me on 4th of May
   
   I am really active on discord. Get me [there](https://discord.com/users/763820556491161650)...
+  <br>
+  **If you like my work, gift me discord nitro 😉**
  
 ![Metrics](https://metrics.lecoq.io/pranavbaburaj)
 <hr>
