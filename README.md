@@ -47,6 +47,7 @@ Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sph
  - [Follow my dev blogs on dev.to](https://dev.to/pranavbaburaj)
  - [Follow me on twitter](https://twitter.com/_pranavbaburaj)
  - [Mail me](mailto:pranavbaburaj@zohomail.in)
+ - [Instagram](https://www.instagram.com/pranavbaburaj)
 
 
 [Please submit your feedback here](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
