@@ -46,6 +46,7 @@ Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sph
  - [Reddit](https://www.reddit.com/user/pranavbaburaj)
  - [Follow my dev blogs on dev.to](https://dev.to/pranavbaburaj)
  - [Follow me on twitter](https://twitter.com/_pranavbaburaj)
- - [Mail me](mailto:code-roller@googlegroups.com)
+ - [Mail me](mailto:pranavbaburaj@zohomail.in)
+
 
 [Please submit your feedback here](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
