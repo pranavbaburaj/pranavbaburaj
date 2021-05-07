@@ -1,9 +1,9 @@
-import { createPromptModule } from "inquirer";
-import { output } from "./output";
-import { questions } from "./question";
+import {createPromptModule} from 'inquirer';
+import {output} from './output';
+import {questions} from './question';
 
 // create inquirer prompt
-const prompt = createPromptModule()
+const prompt = createPromptModule();
 
-console.log(output)
-prompt(questions).then(answer => answer.action());
+console.log(output);
+prompt(questions).then((answer) => answer.action());
