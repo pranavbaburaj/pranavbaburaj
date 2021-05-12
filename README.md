@@ -35,7 +35,7 @@
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavbaburaj&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
 
 Also view my Github activity in GitHub skyline [here](https://skyline.github.com/pranavbaburaj/2020)
-
+ 
 Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sphinx)
 
 ## 📞 Contact
@@ -47,7 +47,7 @@ Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sph
  - [Follow my dev blogs on dev.to](https://dev.to/pranavbaburaj)
  - [Follow me on twitter](https://twitter.com/_pranavbaburaj)
  - [Mail me](mailto:pranavbaburaj@zohomail.in)
- - [Instagram](https://www.instagram.com/pranavbaburaj)
+ - [Instagram](https://www.instagram.com/pranav_baburaj)
 
 
 [Please submit your feedback here](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
