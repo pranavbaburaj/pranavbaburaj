@@ -49,4 +49,3 @@ Currently working on [pranavbaburaj/sphinx](https://github.com/pranavbaburaj/sph
  - [Mail me](mailto:pranavbaburaj@zohomail.in)
  
 
-[Please submit your feedback here](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
