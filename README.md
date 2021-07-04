@@ -17,8 +17,8 @@
   I am really active on discord. Get me [there](https://discord.com/users/763820556491161650)...
   <br>
   **If you like my work, gift me discord nitro 😉**
- 
-![Metrics](https://metrics.lecoq.io/pranavbaburaj)
+<!--  
+![Metrics](https://metrics.lecoq.io/pranavbaburaj) -->
 <hr>
 
 
